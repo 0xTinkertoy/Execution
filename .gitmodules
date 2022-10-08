@@ -1,0 +1,6 @@
+[submodule "Dependencies/TinkerLibrary"]
+	path = Dependencies/TinkerLibrary
+	url = https://github.com/0xTinkertoy/TinkerLibrary.git
+[submodule "Dependencies/Scheduler"]
+	path = Dependencies/Scheduler
+	url = https://github.com/0xTinkertoy/Scheduler.git
